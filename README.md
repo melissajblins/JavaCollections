@@ -1,6 +1,8 @@
 # Aplicando boas práticas de Orientação a Objetos com Java Collections
 Sistema gerenciador de uma instituição de ensino fictícia.
 
+![Collection-Framework-1](https://user-images.githubusercontent.com/78432629/153776658-2d950e74-bed8-4eba-9c1f-6b70871892bd.png)
+
 ## Conceitos
 * ArrayList
 * Adicionar e Remover elementos em um ArrayList
